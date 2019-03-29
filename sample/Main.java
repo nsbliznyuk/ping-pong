@@ -21,7 +21,7 @@ public class Main extends Application {
 
     // размер пол¤
     private static final int width = 800;
-    private static final int height = 800;
+    private static final int height = 600;
 
     // ширина и высота ракетка
     private static final int RACKET_WIDTH = 10;
